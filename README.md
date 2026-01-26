@@ -4,7 +4,8 @@
 - 🌱 Currently learning: Software Engineering, 2nd Year
 - 💻 Passionate about building scalable and user-friendly applications.
 - 🚀 Always excited about new technologies and solving complex problems.
-- 📫 Reach me at: [https://www.linkedin.com/in/shira-bar-shalom-9bb696370/]
+-📫 Reach me at: [Contact me on LinkedIn](https://www.linkedin.com/in/shira-bar-shalom-9bb696370/)
+
 
 ---
 🎓 **Education**
