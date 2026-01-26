@@ -29,6 +29,6 @@
 
 🚀 **Let's Connect** 
 
-[🔗 LinkedIn](https://www.linkedin.com/in/shira-bar-shalom-9bb696370/)  
-[✉️ Email me](mailto:shirabarshlom@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shira-bar-shalom-9bb696370/)  
+[![Email](https://img.shields.io/badge/Email-📧-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shirabarshlom@gmail.com)
 
