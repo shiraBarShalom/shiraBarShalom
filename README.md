@@ -9,7 +9,7 @@
 
 ---
 🎓 **Education**
-- 🎓 B.Sc. in Software Engineering, Azrieli College
+- 🎓 B.Sc. Computer Science Student at , The Open University 
 
 ---
 🛠 **Technologies & Tools I Work With**
